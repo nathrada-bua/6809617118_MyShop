@@ -302,3 +302,22 @@ video {
 #second-category-header {
   background-color: #fff2eb;
 }
+
+#category-container {
+  background-color: #fbf3d5;
+  text-align: center;
+  margin: 0 100px;
+  padding: 20px 0;
+  border-radius: 20px;
+}
+
+#category-title {
+  margin: 0 0 20px 0;
+  color: #b58a7d;
+}
+
+.category-subtitle {
+  font-size: 30px;
+  color: #d6a99d;
+  text-decoration: none;
+}
