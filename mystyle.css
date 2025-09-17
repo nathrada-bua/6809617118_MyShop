@@ -297,6 +297,7 @@ video {
 
 #first-category-header {
   background-color: #fff2eb;
+  border-bottom: #d6dac8 10px double;
 }
 
 #second-category-header {
@@ -320,4 +321,38 @@ video {
   font-size: 30px;
   color: #d6a99d;
   text-decoration: none;
+}
+
+#title-first-category {
+  padding: 40px;
+  margin: 0;
+  font-size: 50px;
+  color: #c59283;
+  text-align: center;
+}
+
+#heart1-decoration {
+  position: absolute;
+  top: 20px;
+  font-size: 40px;
+  color: #d6a99d;
+}
+
+#heart2-decoration {
+  position: absolute;
+  margin-left: 30px;
+  top: 5px;
+  font-size: 30px;
+  color: #d6a99d;
+}
+
+.best-seller-tag {
+  position: absolute;
+  background-color: #d78f7b;
+  padding: 10px;
+  color: #fffbea;
+  margin-top: -350px;
+  margin-left: -100px;
+  font-size: 20px;
+  border-radius: 30px;
 }
